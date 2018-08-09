@@ -1,0 +1,513 @@
+[2018-02-03 16:03:39]  log file setting succeed. 
+[2018-02-03 16:03:39]  Cards have been read and loaded. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Cards have been shuffled. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player==> Hurricane Hawk Merchantman Sabre Constellation Merchantman Orion Vanguard 
+[2018-02-03 16:03:39]  AI1==> Vanguard 350r Avenger Orion Sabre Sabre Carrack Carrack 
+[2018-02-03 16:03:39]  AI2==> 350r 350r Hurricane Hawk m50 Idris m50 Constellation 
+[2018-02-03 16:03:39]  AI3==> Hornet Avenger Constellation m50 Merchantman Vanguard Carrack Hawk 
+[2018-02-03 16:03:39]  AI4==> Hornet Avenger Idris Idris Hurricane Avenger Orion Hornet 
+[2018-02-03 16:03:39]  Cards have been divided to players. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Hurricane 
+[2018-02-03 16:03:39]  AI1's top card: Vanguard 
+[2018-02-03 16:03:39]  AI2's top card: 350r 
+[2018-02-03 16:03:39]  AI3's top card: Hornet 
+[2018-02-03 16:03:39]  AI4's top card: Hornet 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI4 seleced category: Speed value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Hurricane has put into communal pile. 
+[2018-02-03 16:03:39]  AI1's top card: Vanguard has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  AI3's top card: Hornet has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Hornet has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Hurricane has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Vanguard has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hornet has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hornet has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player==> Hawk Merchantman Sabre Constellation Merchantman Orion Vanguard 
+[2018-02-03 16:03:39]  AI1==> 350r Avenger Orion Sabre Sabre Carrack Carrack 
+[2018-02-03 16:03:39]  AI2==> 350r Hurricane Hawk m50 Idris m50 Constellation Hurricane Vanguard 350r Hornet Hornet 
+[2018-02-03 16:03:39]  AI3==> Avenger Constellation m50 Merchantman Vanguard Carrack Hawk 
+[2018-02-03 16:03:39]  AI4==> Avenger Idris Idris Hurricane Avenger Orion Hornet 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Hawk 
+[2018-02-03 16:03:39]  AI1's top card: 350r 
+[2018-02-03 16:03:39]  AI2's top card: 350r 
+[2018-02-03 16:03:39]  AI3's top card: Avenger 
+[2018-02-03 16:03:39]  AI4's top card: Avenger 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Speed value: 9 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Hawk has put into communal pile. 
+[2018-02-03 16:03:39]  AI1's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  AI3's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player==> Merchantman Sabre Constellation Merchantman Orion Vanguard 
+[2018-02-03 16:03:39]  AI1==> Avenger Orion Sabre Sabre Carrack Carrack 
+[2018-02-03 16:03:39]  AI2==> Hurricane Hawk m50 Idris m50 Constellation Hurricane Vanguard 350r Hornet Hornet 
+[2018-02-03 16:03:39]  AI3==> Constellation m50 Merchantman Vanguard Carrack Hawk 
+[2018-02-03 16:03:39]  AI4==> Idris Idris Hurricane Avenger Orion Hornet 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Merchantman 
+[2018-02-03 16:03:39]  AI1's top card: Avenger 
+[2018-02-03 16:03:39]  AI2's top card: Hurricane 
+[2018-02-03 16:03:39]  AI3's top card: Constellation 
+[2018-02-03 16:03:39]  AI4's top card: Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Speed value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Merchantman has put into communal pile. 
+[2018-02-03 16:03:39]  AI1's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Hurricane has put into communal pile. 
+[2018-02-03 16:03:39]  AI3's top card: Constellation has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Idris has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player==> Sabre Constellation Merchantman Orion Vanguard 
+[2018-02-03 16:03:39]  AI1==> Orion Sabre Sabre Carrack Carrack 
+[2018-02-03 16:03:39]  AI2==> Hawk m50 Idris m50 Constellation Hurricane Vanguard 350r Hornet Hornet 
+[2018-02-03 16:03:39]  AI3==> m50 Merchantman Vanguard Carrack Hawk 
+[2018-02-03 16:03:39]  AI4==> Idris Hurricane Avenger Orion Hornet 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Sabre 
+[2018-02-03 16:03:39]  AI1's top card: Orion 
+[2018-02-03 16:03:39]  AI2's top card: Hawk 
+[2018-02-03 16:03:39]  AI3's top card: m50 
+[2018-02-03 16:03:39]  AI4's top card: Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Firepower value: 4 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Sabre has put into communal pile. 
+[2018-02-03 16:03:39]  AI1's top card: Orion has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Hawk has put into communal pile. 
+[2018-02-03 16:03:39]  AI3's top card: m50 has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Idris has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Hawk has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Merchantman has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hurricane has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Constellation has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Idris has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Sabre has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Orion has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hawk has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: m50 has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Idris has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player==> Constellation Merchantman Orion Vanguard 
+[2018-02-03 16:03:39]  AI1==> Sabre Sabre Carrack Carrack 
+[2018-02-03 16:03:39]  AI2==> m50 Idris m50 Constellation Hurricane Vanguard 350r Hornet Hornet 
+[2018-02-03 16:03:39]  AI3==> Merchantman Vanguard Carrack Hawk 
+[2018-02-03 16:03:39]  AI4==> Hurricane Avenger Orion Hornet Hawk 350r 350r Avenger Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Constellation 
+[2018-02-03 16:03:39]  AI1's top card: Sabre 
+[2018-02-03 16:03:39]  AI2's top card: m50 
+[2018-02-03 16:03:39]  AI3's top card: Merchantman 
+[2018-02-03 16:03:39]  AI4's top card: Hurricane 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI4 seleced category: Speed value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Constellation has put into communal pile. 
+[2018-02-03 16:03:39]  AI1's top card: Sabre has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: m50 has put into communal pile. 
+[2018-02-03 16:03:39]  AI3's top card: Merchantman has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Hurricane has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Constellation has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Sabre has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: m50 has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Merchantman has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hurricane has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player==> Merchantman Orion Vanguard 
+[2018-02-03 16:03:39]  AI1==> Sabre Carrack Carrack 
+[2018-02-03 16:03:39]  AI2==> Idris m50 Constellation Hurricane Vanguard 350r Hornet Hornet Constellation Sabre m50 Merchantman Hurricane 
+[2018-02-03 16:03:39]  AI3==> Vanguard Carrack Hawk 
+[2018-02-03 16:03:39]  AI4==> Avenger Orion Hornet Hawk 350r 350r Avenger Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Merchantman 
+[2018-02-03 16:03:39]  AI1's top card: Sabre 
+[2018-02-03 16:03:39]  AI2's top card: Idris 
+[2018-02-03 16:03:39]  AI3's top card: Vanguard 
+[2018-02-03 16:03:39]  AI4's top card: Avenger 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Firepower value: 10 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Merchantman has put into communal pile. 
+[2018-02-03 16:03:39]  AI1's top card: Sabre has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Idris has put into communal pile. 
+[2018-02-03 16:03:39]  AI3's top card: Vanguard has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Merchantman has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Sabre has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Idris has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Vanguard has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player==> Orion Vanguard 
+[2018-02-03 16:03:39]  AI1==> Carrack Carrack 
+[2018-02-03 16:03:39]  AI2==> m50 Constellation Hurricane Vanguard 350r Hornet Hornet Constellation Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger 
+[2018-02-03 16:03:39]  AI3==> Carrack Hawk 
+[2018-02-03 16:03:39]  AI4==> Orion Hornet Hawk 350r 350r Avenger Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Orion 
+[2018-02-03 16:03:39]  AI1's top card: Carrack 
+[2018-02-03 16:03:39]  AI2's top card: m50 
+[2018-02-03 16:03:39]  AI3's top card: Carrack 
+[2018-02-03 16:03:39]  AI4's top card: Orion 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Speed value: 10 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Orion has put into communal pile. 
+[2018-02-03 16:03:39]  AI1's top card: Carrack has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: m50 has put into communal pile. 
+[2018-02-03 16:03:39]  AI3's top card: Carrack has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Orion has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Orion has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Carrack has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: m50 has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Carrack has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Orion has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player==> Vanguard 
+[2018-02-03 16:03:39]  AI1==> Carrack 
+[2018-02-03 16:03:39]  AI2==> Constellation Hurricane Vanguard 350r Hornet Hornet Constellation Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion 
+[2018-02-03 16:03:39]  AI3==> Hawk 
+[2018-02-03 16:03:39]  AI4==> Hornet Hawk 350r 350r Avenger Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Vanguard 
+[2018-02-03 16:03:39]  AI1's top card: Carrack 
+[2018-02-03 16:03:39]  AI2's top card: Constellation 
+[2018-02-03 16:03:39]  AI3's top card: Hawk 
+[2018-02-03 16:03:39]  AI4's top card: Hornet 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Range value: 7 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Player's top card: Vanguard has put into communal pile. 
+[2018-02-03 16:03:39]  AI1's top card: Carrack has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Constellation has put into communal pile. 
+[2018-02-03 16:03:39]  AI3's top card: Hawk has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Hornet has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Vanguard has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Carrack has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Constellation has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hawk has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hornet has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Vanguard Carrack Constellation Hawk Hornet 
+[2018-02-03 16:03:39]  AI2==> Hurricane Vanguard 350r Hornet Hornet Constellation Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion 
+[2018-02-03 16:03:39]  AI4==> Hawk 350r 350r Avenger Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Vanguard 
+[2018-02-03 16:03:39]  AI2's top card: Hurricane 
+[2018-02-03 16:03:39]  AI4's top card: Hawk 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1 seleced category: Range value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Vanguard has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Hurricane has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Hawk has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Vanguard has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hurricane has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hawk has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Carrack Constellation Hawk Hornet Vanguard Hurricane Hawk 
+[2018-02-03 16:03:39]  AI2==> Vanguard 350r Hornet Hornet Constellation Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion 
+[2018-02-03 16:03:39]  AI4==> 350r 350r Avenger Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Carrack 
+[2018-02-03 16:03:39]  AI2's top card: Vanguard 
+[2018-02-03 16:03:39]  AI4's top card: 350r 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1 seleced category: Range value: 10 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Carrack has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Vanguard has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Carrack has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Vanguard has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Constellation Hawk Hornet Vanguard Hurricane Hawk Carrack Vanguard 350r 
+[2018-02-03 16:03:39]  AI2==> 350r Hornet Hornet Constellation Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion 
+[2018-02-03 16:03:39]  AI4==> 350r Avenger Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Constellation 
+[2018-02-03 16:03:39]  AI2's top card: 350r 
+[2018-02-03 16:03:39]  AI4's top card: 350r 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1 seleced category: Range value: 7 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Constellation has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Constellation has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Hawk Hornet Vanguard Hurricane Hawk Carrack Vanguard 350r Constellation 350r 350r 
+[2018-02-03 16:03:39]  AI2==> Hornet Hornet Constellation Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion 
+[2018-02-03 16:03:39]  AI4==> Avenger Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hawk 
+[2018-02-03 16:03:39]  AI2's top card: Hornet 
+[2018-02-03 16:03:39]  AI4's top card: Avenger 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1 seleced category: Firepower value: 4 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hawk has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Hornet has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Hawk has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hornet has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Hornet Vanguard Hurricane Hawk Carrack Vanguard 350r Constellation 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Hornet Constellation Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion 
+[2018-02-03 16:03:39]  AI4==> Avenger Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hornet 
+[2018-02-03 16:03:39]  AI2's top card: Hornet 
+[2018-02-03 16:03:39]  AI4's top card: Avenger 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1 seleced category: Speed value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hornet has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Hornet has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Vanguard Hurricane Hawk Carrack Vanguard 350r Constellation 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Constellation Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion 
+[2018-02-03 16:03:39]  AI4==> Merchantman Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Vanguard 
+[2018-02-03 16:03:39]  AI2's top card: Constellation 
+[2018-02-03 16:03:39]  AI4's top card: Merchantman 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1 seleced category: Range value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Vanguard has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Constellation has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Merchantman has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Hornet has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hornet has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Vanguard has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Constellation has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Merchantman has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Hurricane Hawk Carrack Vanguard 350r Constellation 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Sabre m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman 
+[2018-02-03 16:03:39]  AI4==> Avenger Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hurricane 
+[2018-02-03 16:03:39]  AI2's top card: Sabre 
+[2018-02-03 16:03:39]  AI4's top card: Avenger 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Speed value: 7 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hurricane has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Sabre has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Hurricane has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Sabre has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Hawk Carrack Vanguard 350r Constellation 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> m50 Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger 
+[2018-02-03 16:03:39]  AI4==> Hurricane Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hawk 
+[2018-02-03 16:03:39]  AI2's top card: m50 
+[2018-02-03 16:03:39]  AI4's top card: Hurricane 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Speed value: 10 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hawk has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: m50 has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Hurricane has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Hawk has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: m50 has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hurricane has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Carrack Vanguard 350r Constellation 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Merchantman Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane 
+[2018-02-03 16:03:39]  AI4==> Constellation Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Carrack 
+[2018-02-03 16:03:39]  AI2's top card: Merchantman 
+[2018-02-03 16:03:39]  AI4's top card: Constellation 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Cargo, value: 8 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Carrack has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Merchantman has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Constellation has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Carrack has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Merchantman has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Constellation has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Vanguard 350r Constellation 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Hurricane Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation 
+[2018-02-03 16:03:39]  AI4==> Idris Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Vanguard 
+[2018-02-03 16:03:39]  AI2's top card: Hurricane 
+[2018-02-03 16:03:39]  AI4's top card: Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Speed value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Vanguard has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Hurricane has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Idris has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Vanguard has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hurricane has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Idris has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> 350r Constellation 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Merchantman Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation Vanguard Hurricane Idris 
+[2018-02-03 16:03:39]  AI4==> Sabre Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: 350r 
+[2018-02-03 16:03:39]  AI2's top card: Merchantman 
+[2018-02-03 16:03:39]  AI4's top card: Sabre 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Cargo, value: 8 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Merchantman has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Sabre has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Merchantman has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Sabre has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Constellation 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Sabre Idris Vanguard Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation Vanguard Hurricane Idris 350r Merchantman Sabre 
+[2018-02-03 16:03:39]  AI4==> Orion Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Constellation 
+[2018-02-03 16:03:39]  AI2's top card: Sabre 
+[2018-02-03 16:03:39]  AI4's top card: Orion 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Speed value: 7 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Constellation has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Sabre has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Orion has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Constellation has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Sabre has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Orion has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> 350r 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Idris Vanguard Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation Vanguard Hurricane Idris 350r Merchantman Sabre Constellation Sabre Orion 
+[2018-02-03 16:03:39]  AI4==> Hawk m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: 350r 
+[2018-02-03 16:03:39]  AI2's top card: Idris 
+[2018-02-03 16:03:39]  AI4's top card: Hawk 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Firepower value: 10 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Idris has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Hawk has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Idris has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Hawk has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> 350r Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Vanguard Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation Vanguard Hurricane Idris 350r Merchantman Sabre Constellation Sabre Orion 350r Idris Hawk 
+[2018-02-03 16:03:39]  AI4==> m50 Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: 350r 
+[2018-02-03 16:03:39]  AI2's top card: Vanguard 
+[2018-02-03 16:03:39]  AI4's top card: m50 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Range value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: 350r has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Vanguard has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: m50 has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: 350r has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Vanguard has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: m50 has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Hawk Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Avenger Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation Vanguard Hurricane Idris 350r Merchantman Sabre Constellation Sabre Orion 350r Idris Hawk 350r Vanguard m50 
+[2018-02-03 16:03:39]  AI4==> Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hawk 
+[2018-02-03 16:03:39]  AI2's top card: Avenger 
+[2018-02-03 16:03:39]  AI4's top card: Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Speed value: 5 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hawk has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:39]  AI4's top card: Idris has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Hawk has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Idris has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Hornet Avenger 
+[2018-02-03 16:03:39]  AI2==> Orion Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation Vanguard Hurricane Idris 350r Merchantman Sabre Constellation Sabre Orion 350r Idris Hawk 350r Vanguard m50 Hawk Avenger Idris 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hornet 
+[2018-02-03 16:03:39]  AI2's top card: Orion 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI2 seleced category: Size value: 10 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Hornet has put into communal pile. 
+[2018-02-03 16:03:39]  AI2's top card: Orion has put into communal pile. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  Card: Hornet has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  Card: Orion has moved from communal pile to the round winner. 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1==> Avenger 
+[2018-02-03 16:03:39]  AI2==> Carrack m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation Vanguard Hurricane Idris 350r Merchantman Sabre Constellation Sabre Orion 350r Idris Hawk 350r Vanguard m50 Hawk Avenger Idris Hornet Orion 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:39]  AI1's top card: Avenger 
+[2018-02-03 16:03:39]  AI2's top card: Carrack 
+[2018-02-03 16:03:39]  ---------------------------------- 
+[2018-02-03 16:03:40]  AI2 seleced category: Range value: 10 
+[2018-02-03 16:03:40]  ---------------------------------- 
+[2018-02-03 16:03:40]  AI1's top card: Avenger has put into communal pile. 
+[2018-02-03 16:03:40]  AI2's top card: Carrack has put into communal pile. 
+[2018-02-03 16:03:40]  ---------------------------------- 
+[2018-02-03 16:03:40]  Card: Avenger has moved from communal pile to the round winner. 
+[2018-02-03 16:03:40]  Card: Carrack has moved from communal pile to the round winner. 
+[2018-02-03 16:03:40]  ---------------------------------- 
+[2018-02-03 16:03:40]  AI2==> m50 Carrack Orion Hornet Hornet Avenger Vanguard Constellation Merchantman Hurricane Sabre Avenger Hawk m50 Hurricane Carrack Merchantman Constellation Vanguard Hurricane Idris 350r Merchantman Sabre Constellation Sabre Orion 350r Idris Hawk 350r Vanguard m50 Hawk Avenger Idris Hornet Orion Avenger Carrack 
+[2018-02-03 16:03:40]  ---------------------------------- 
+[2018-02-03 16:03:40]  The winner is AI2 
+[2018-02-03 16:03:40]  ---------------------------------- 
